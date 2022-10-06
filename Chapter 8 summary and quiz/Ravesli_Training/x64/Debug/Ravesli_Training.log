@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Вячеслав\source\repos\Ravesli_Training\Ravesli_Training\main.cpp(199,14): warning C4244: +=: преобразование "double" в "int16_t", возможна потеря данных
+C:\Users\Вячеслав\source\repos\Ravesli_Training\Ravesli_Training\main.cpp(200,20): warning C4244: -=: преобразование "double" в "int8_t", возможна потеря данных
+C:\Users\Вячеслав\source\repos\Ravesli_Training\Ravesli_Training\main.cpp(206,12): warning C4244: =: преобразование "const double" в "int16_t", возможна потеря данных
+C:\Users\Вячеслав\source\repos\Ravesli_Training\Ravesli_Training\main.cpp(207,18): warning C4244: =: преобразование "double" в "int8_t", возможна потеря данных
+  Ravesli_Training.vcxproj -> C:\Users\Вячеслав\source\repos\Ravesli_Training\x64\Debug\Ravesli_Training.exe
