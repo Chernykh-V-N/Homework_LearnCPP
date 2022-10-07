@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Вячеслав\source\repos\Ravesli_Training\Ravesli_Training\main.cpp(27,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Вячеслав\source\repos\Ravesli_Training\Ravesli_Training\main.cpp(55,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Ravesli_Training.vcxproj -> C:\Users\Вячеслав\source\repos\Ravesli_Training\x64\Debug\Ravesli_Training.exe
